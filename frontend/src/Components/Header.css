@@ -1,0 +1,12 @@
+/* Header.css */
+.header-title {
+    position: absolute;
+    top: 5%;
+    width: 100%;
+    text-align: center;
+    font-size: 2em;
+    color: #eeeeff;
+    font-family: 'Arial', sans-serif; /* Use the same font family as the prototype image */
+    font-weight: 400;
+  }
+  
