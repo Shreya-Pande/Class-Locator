@@ -18,8 +18,18 @@ The **Class Locator App** is a web-based application built using the **MERN stac
 - **React.js**: ⚛️ Frontend library to build the user interface.
 - **Node.js**: 🚀 Server-side JavaScript runtime.
 
-## Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/class-locator-app.git
+## Usage
+
+### Home Page 🏠  
+Select a day, time, and block to check the availability of classrooms.
+
+### Dashboard 📊  
+View available rooms in a user-friendly, card-based format.
+
+---
+
+## Screenshot
+
+Sample of the Class Locator UI showing available rooms. 🖥️
+
