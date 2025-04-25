@@ -33,3 +33,5 @@ View available rooms in a user-friendly, card-based format.
 
 Sample of the Class Locator UI showing available rooms. 🖥️
 
+![image alt](https://github.com/Shreya-Pande/Class-Locator/blob/a48ee4fe48cf8f995d5dd429051a6a83f8e4cb78/Screenshot%20(246).png)
+
